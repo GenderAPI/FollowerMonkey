@@ -1,0 +1,477 @@
+{
+	"lcl_gender_filter":{
+         "message":"Cinsiyet Filtresi"
+   },
+   "lcl_filter_all_gender":{
+         "message":"Tüm cinsiyetleri takip et"
+   },
+   "lcl_filter_males_unknown":{
+         "message":"ERKEKleri ve cinsiyeti bilinmeyenleri takip et"
+   },
+   "lcl_filter_females_unknown":{
+         "message":"KADINları ve cinsiyeti bilinmeyenleri takip et"
+   },
+   "lcl_filter_females":{
+         "message":"Sadece KADINları takip et"
+   },
+   "lcl_filter_males":{
+         "message":"Sadece ERKEKleri takip et"
+   },
+   "lcl_desc":{
+         "message":"* Filtre cinsiyeti kullanıcının adına göre bulur. 89 dilde 216286 adet isim verisi bulunmaktadır. Eğer havuz dolmuyor ise lütfen cinsiyet filtresini iptal ediniz."
+   },
+	"lcl_larger_than":{
+         "message":"Aşağıdakinden BÜYÜK"
+   },
+   "lcl_smaller_than":{
+         "message":"Aşağıdakinden KÜÇÜK"
+   },
+	"lcl_followers_count":{
+         "message":"Takipçi sayısı"
+   },
+   "lcl_following_count":{
+         "message":"Takip ettiklerinin sayısı"
+   },
+   "lcl_medias_count":{
+         "message":"Medya sayısı"
+   },
+   "lcl_filter_public":{
+         "message":"Sadece herkese açık hesapları takip et"
+   },
+   "lcl_filter_private":{
+         "message":"Sadece gizli hesapları takip et"
+   },
+   "lcl_filter_private_public":{
+         "message":"Gizli ve herkese açık tüm hesapları takip et"
+   },
+   "lcl_filter_external_link":{
+         "message":"Profilinde www.website.com gibi bir link olan hesabı takip etme"
+   },
+   "lcl_filter_desciription_black":{
+         "message":"Biyografisi kara liste kelimeleri (kelimeleri aralarında virgüller olacak şekilde yazınız)"
+   },
+	"lcl_user_filters":{
+         "message":"Takip için kullanıcı Filtreleri"
+   },
+	"lcl_collect_followers_new":{
+			"message":"Son 10 takipçiyi sürekli kontrol et ve topla"
+	},
+	"lcl_collect_followers_all":{
+			"message":"Tüm takipçileri topla "
+	},
+	"lcl_declare_sleep_times_comments":{
+			"message":"Yorumlar için uyku zamanları belirleyin"
+	},
+	"lcl_comments_sleep_times":{
+			"message":"Yorum Uyku Zamanları"
+	},
+	"lcl_comments_medias_job":{
+			"message":"Aramadaki resimlere yorum at"
+	},
+	"lcl_remove_comments_media_job":{
+			"message":"Aramadaki resimlere yorum atmayı iptal et"
+	},
+	"lcl_max_comments_limit": {
+      "message": "24 saat içinde maks. yorum sayısı"
+   },
+	"lcl_error_comments_interval_time": {
+      "message": "Yorum hata durumunda bekleme zamanı (saniye)"
+   },
+	"lcl_comments_interval_time": {
+      "message": "Yorumlar için zaman aralığı (saniye)"
+   },
+	"lcl_comments_status": {
+      "message": "Yorum Durumu"
+   },
+	"lcl_comments": {
+      "message": "Yorumlar"
+   },
+	"lcl_auto_comments": {
+      "message": "Otomatik Yorumlar"
+   },
+	"lcl_lates_comments": {
+      "message": "En Son Yorumlar"
+   },
+	"lcl_delete_white_list_likes_comments": {
+      "message": "Beğenileri ve yorumları beyaz listeden çıkarın"
+   },
+   "lcl_clear_white_list": {
+      "message": "Beyaz listeyi Temizle"
+   },
+	"lcl_collect_comments": {
+      "message": "Yorumlayanları topla"
+   },
+	"lcl_collect_likes": {
+      "message": "Beğenileri topla"
+   },
+	 "lcl_collect_title": {
+      "message": "Resim beğenilerini ve yorumlayanları toplayın"
+   },
+	"lcl_auto_unfollow": {
+      "message": "Otomatik Takip Bırakma"
+   },
+   "lcl_auto_unfollow_enable": {
+      "message": "Oto Takip bırakmayı aktif et"
+   },
+   "lcl_auto_unfollow_day": {
+      "message": "Oto takip bırakma zaman aralığı"
+   },
+   "lcl_day_1": {
+      "message": "1 gün"
+   },
+   "lcl_day_2": {
+      "message": "2 gün"
+   },
+   "lcl_day_3": {
+      "message": "3 gün"
+   },
+	"lcl_stop_collect_current_follows": {
+      "message": "Taramayı Durdur"
+   },
+	"lcl_collect_current_follows": {
+      "message": "Şu anki takipleri çek"
+   },
+	"lcl_ext_name":{
+			"message":"FollowerMonkey.com instagram takip takip bırakma"
+	},
+	"lcl_ext_desc":{
+			"message":"Instagram otomatik takip ve takip bırakma"
+	},
+	"lcl_pool_jobs":{
+			"message":"Havuz İşleri"
+	},
+	"lcl_settings":{
+			"message":"Ayarlar"
+	},
+	"lcl_statistics":{
+			"message":"İstatistikler"
+	},
+	"lcl_create_unfollow_job":{
+			"message":"Takip Bırakma İşi Oluştur"
+	},
+	"lcl_auto_likes":{
+			"message":"Otomatik beğeni"
+	},
+	"lcl_sleep_times":{
+			"message":"Uyku Zamanları"
+	},
+	"lcl_white_list":{
+			"message":"Beyaz Liste"
+	},
+	"lcl_white_list_for":{
+			"message":"Takip Bırakmalar için Beyaz Liste"
+	},
+	"lcl_secure_settings":{
+			"message":"Güvenli Takip ayarları nedir?"
+	},
+	"lcl_rate":{
+			"message":"Lütfen Oylayın!"
+	},
+	"lcl_pool":{
+			"message":"Havuz"
+	},
+	"lcl_unfollow_status":{
+			"message":"Takip bırakma durumu"
+	},
+	"lcl_scanned_users":{
+			"message":"Taranan kullanıcılar:"
+	},
+	"lcl_stop_scan":{
+			"message":"Taramayı bitir"
+	},
+	"lcl_remove_unfollow_job":{
+			"message":"İşi Sil"
+	},
+	"lcl_follow_status":{
+			"message":"Takip Durumu"
+	},
+	"lcl_latest_follows":{
+			"message":"En Son Takipler"
+	},
+	"lcl_user_name":{
+			"message":"Kullanıcı Adı"
+	},
+	"lcl_follow_time":{
+			"message":"Takip Zamanı"
+	},
+	"lcl_latest_likes":{
+			"message":"En Son Beğeniler"
+	},
+	"lcl_media":{
+			"message":"Medya"
+	},
+	"lcl_time":{
+			"message":"Zaman"
+	},
+	"lcl_latest_unfollows":{
+			"message":"En Son Takip Bırakmalar"
+	},
+	"lcl_unfollow_time":{
+			"message":"Takip Bırakma Zamanı"
+	},
+	"lcl_error_log":{
+			"message":"Hata Raporu"
+	},
+	"lcl_action":{
+			"message":"Eylem"
+	},
+	"lcl_next_action_time":{
+			"message":"Sonraki Eylem Zamanı"
+	},
+	"lcl_item":{
+			"message":"Öğe"
+	},
+	"lcl_error_type":{
+			"message":"Hata Türü"
+	},
+	"lcl_user_names_desc":{
+			"message":"Kullanıcı Adları (çoklu kullanıcıları aralarında virgüller olacak şekilde yazınız)"
+	},
+	"lcl_close":{
+			"message":"Kapat"
+	},
+	"lcl_follow_sleep_times":{
+			"message":"Takip Uyku Zamanları"
+	},
+	"lcl_unfollow_sleep_times":{
+			"message":"Takip Bırakma Uyku zamanları"
+	},
+	"lcl_like_sleep_times":{
+			"message":"Beğeni Uyku Zamanları"
+	},
+	"lcl_declare_sleep_times_follow":{
+			"message":"Takipler için uyku zamanları belirleyin"
+	},
+	"lcl_declare_sleep_times_unfollow":{
+			"message":"Takip bırakakmalar için uyku zamanları belirleyin"
+	},
+	"lcl_declare_sleep_times_like":{
+			"message":"Beğeniler için uyku zamanları belirleyin"
+	},
+	"lcl_start_time":{
+			"message":"Başlama zamanı"
+	},
+	"lcl_end_time":{
+			"message":"Bitiş zamanı"
+	},
+	"lcl_add":{
+			"message":"Ekle"
+	},
+	"lcl_delete":{
+			"message":"Sil"
+	},
+	"lcl_tags_to_collect_media":{
+			"message":"Tag Medyalardan toplanacaklar"
+	},
+	"lcl_like_status":{
+			"message":"Beğeni Durumu"
+	},
+	"lcl_collect_medias_from_home_timeline_to_like":{
+			"message":"Ana Sayfanızdaki Akışları beğenin"
+	},
+	"lcl_collect_medias_from_tags_to_like":{
+			"message":"Belirlediğiniz taglardaki medyaları beğenin"
+	},
+	"lcl_like_interval_time":{
+			"message":"Beğeni zaman aralığı (saniye)"
+	},
+	"lcl_error_like_interval_time":{
+			"message":"Beğeni hata durumunda bekleme zamanı (saniye)"
+	},
+	"lcl_max_like_limit":{
+			"message":"24 saat içinde max. beğeni limiti"
+	},
+	"lcl_followers":{
+			"message":"Takipçiler"
+	},
+	"lcl_comments_likes":{
+			"message":"Yorumlar & Beğeniler"
+	},
+	"lcl_searches":{
+			"message":"Aramalar"
+	},
+	"lcl_locations":{
+			"message":"Lokasyonlar"
+	},
+	"lcl_from_followers":{
+			"message":"Takipçilerinden"
+	},
+	"lcl_from_comments_likes":{
+			"message":"Yorum atanlardan ve Beğenenlerden"
+	},
+	"lcl_from_searches":{
+			"message":"Aramalardan"
+	},
+	"lcl_from_locations":{
+			"message":"Lokasyonlardan"
+	},
+	"lcl_pool_settings":{
+			"message":"Havuz Ayarları"
+	},
+	"lcl_job_interval_times":{
+			"message":"İşlerin Zaman Aralıkları"
+	},
+	"lcl_others":{
+			"message":"Diğer"
+	},
+	"lcl_pool_limit":{
+			"message":"Havuz Limiti"
+	},
+	"lcl_delete_pool":{
+			"message":"Havuzu Boşalt"
+	},
+	"lcl_delete_pool_history":{
+			"message":"Eski havuz hafızasını boşalt"
+	},
+	"lcl_jobs":{
+			"message":"İşler"
+	},
+	"lcl_interval_time":{
+			"message":"Zaman Aralıkları (saniye)"
+	},
+	"lcl_after_rate_limit_error":{
+			"message":"Hata alındığı durumda bekleme zamanı (saniye)"
+	},
+	"lcl_follow":{
+			"message":"Takip"
+	},
+	"lcl_unfollow":{
+			"message":"Takibi Bırakma"
+	},
+	"lcl_pool_collect_followers":{
+			"message":"Havuz doldurma (takipçilerden)"
+	},
+	"lcl_pool_collect_commenters":{
+			"message":"Havuz Doldurma (yorum ve beğeni)"
+	},
+	"lcl_pool_collect_searches":{
+			"message":"Havuz Doldurma (aramalar)"
+	},
+	"lcl_pool_collect_locations":{
+			"message":"Havuz Doldurma (lokasyonlar)"
+	},
+	"lcl_limits":{
+			"message":"Limitler"
+	},
+	"lcl_follow_limit":{
+			"message":"24 saat içindeki takip limiti"
+	},
+	"lcl_unfollow_limit":{
+			"message":"24 saat içindeki takibi bırakma limiti"
+	},
+	"lcl_follows":{
+			"message":"Takipler"
+	},
+	"lcl_unfollows":{
+			"message":"Takip Bırakmalar"
+	},
+	"lcl_likes":{
+			"message":"Beğeniler"
+	},
+	"lcl_dont_unfollow_that_you_follow":{
+			"message":"Belirtilen günden sonraki takip ettiklerinin takiplerini bırak:"
+	},
+	"lcl_until_1":{
+			"message":"1 gün"
+	},
+	"lcl_until_2":{
+			"message":"2 gün"
+	},
+	"lcl_until_3":{
+			"message":"3 gün"
+	},
+	"lcl_dont_unfollow_followers":{
+			"message":"Takipçilerin için takip bırakma işlemi yapma"
+	},
+	"lcl_cancel":{
+			"message":"İptal"
+	},
+	"lcl_start":{
+			"message":"Başlat"
+	},
+	"lcl_licence":{
+			"message":"Lisans"
+	},
+	"lcl_buy_licence":{
+			"message":"Lisans Satın Al"
+	},
+	"lcl_buy_now":{
+			"message":"Şimdi Satın Al"
+	},
+	"lcl_buy_for_only": {
+       "message": "Sadece <span id='licence_price'></span> bir ay, bir hesap için"
+  	},
+	"lcl_how_to_use":{
+			"message":"Nasıl Kullanılır?"
+	},
+	"lcl_check_licence":{
+			"message":"Lisans durumunuz"
+	},
+	"lcl_prices":{
+			"message":"Fiyatlar"
+	},
+	"lcl_tos":{
+			"message":"Kullanım Şartları"
+	},
+	"lcl_privacy_policy":{
+			"message":"Gizlilik Politikası"
+	},
+	"lcl_contact":{
+			"message":"İletişim"
+	},
+	"lcl_save":{
+			"message":"Kaydet"
+	},
+	"lcl_options":{
+			"message":"Seçenekler"
+	},
+	"lcl_collect_media_owners":{
+			"message":"Resim sahiplerini topla"
+	},
+	"lcl_collect_who_likes_media":{
+			"message":"Resmi beğenenleri topla"
+	},
+	"lcl_collect_comments_on_media":{
+			"message":"Resme yorum yazanları topla"
+	},
+	"lcl_remove_location_job":{
+			"message":"Lokasyondan toplama işini iptal et"
+	},
+	"lcl_collect_from_location":{
+			"message":"Lokasyondan topla"
+	},
+	"lcl_remove_tag_job":{
+			"message":"Aramadan toplama işini iptal et"
+	},
+	"lcl_collect_from_tag":{
+			"message":"Aramadan topla"
+	},
+	"lcl_remove_like_media_job":{
+			"message":"Aramadaki resimleri beğenmeyi iptal et"
+	},
+	"lcl_like_medias_job":{
+			"message":"Aramadaki resimleri beğen"
+	},
+	"lcl_remove_followers_collect_job":{
+			"message":"Takipçilerini toplama işini iptal et"
+	},
+	"lcl_collect_from_followers":{
+			"message":"Takipçilerini topla"
+	},
+	"lcl_remove_comments_likes_collect_job":{
+			"message":"Yorumlayan ve beğenenleri toplama işini iptal et"
+	},
+	"lcl_collect_from_comments_likes":{
+			"message":"Yorumlayan ve beğenenleri topla"
+	},
+	"lcl_affilate":{
+			"message":"Ortaklık Sistemi"
+	}
+
+
+
+ 
+
+
+	
+}

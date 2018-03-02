@@ -1,0 +1,470 @@
+{
+   "lcl_gender_filter":{
+         "message":"Gender Filter"
+   },
+   "lcl_filter_all_gender":{
+         "message":"Follow all Genders"
+   },
+   "lcl_filter_males_unknown":{
+         "message":"Follow MALES and unknown genders"
+   },
+   "lcl_filter_females_unknown":{
+         "message":"Follow FEMALES and unknown genders"
+   },
+   "lcl_filter_females":{
+         "message":"Just follow FEMALES"
+   },
+   "lcl_filter_males":{
+         "message":"Just follow MALES"
+   },
+   "lcl_desc":{
+         "message":"* gender filter finds gender by name and works in 89 languges and 216286 names. if your pool not collects please do not use gender filter"
+   },
+   "lcl_larger_than":{
+         "message":"Larger than bellow"
+   },
+   "lcl_smaller_than":{
+         "message":"Smaller than bellow"
+   },
+   "lcl_followers_count":{
+         "message":"Followers Count"
+   },
+   "lcl_following_count":{
+         "message":"Following Count"
+   },
+   "lcl_medias_count":{
+         "message":"Medias Count"
+   },
+   "lcl_filter_public":{
+         "message":"Just follow PUBLIC accounts"
+   },
+   "lcl_filter_private":{
+         "message":"Just follow PRIVATE accounts"
+   },
+   "lcl_filter_private_public":{
+         "message":"Follow both private and public accounts"
+   },
+   "lcl_filter_external_link":{
+         "message":"Do not follow who has external link like www.website.com"
+   },
+   "lcl_filter_desciription_black":{
+         "message":"Biography black list words (write multiple words separated with comma)"
+   },
+   "lcl_user_filters":{
+         "message":"User Filters for Follows"
+   },
+   "lcl_collect_followers_new":{
+         "message":"Check & Collect latest 10 new followers"
+   },
+   "lcl_collect_followers_all":{
+         "message":"Collect all followers"
+   },
+   "lcl_declare_sleep_times_comments":{
+         "message":"Notify Sleep times for Comments"
+   },
+   "lcl_comments_sleep_times":{
+         "message":"Comments Sleep Times"
+   },
+   "lcl_comments_medias_job":{
+         "message":"Media-commenting job"
+   },
+   "lcl_remove_comments_media_job":{
+         "message":"Remove media-commenting job"
+   },
+   "lcl_max_comments_limit": {
+      "message": "Max comments limit in 24 hours"
+   },
+   "lcl_error_comments_interval_time": {
+      "message": "Time interval error for Comments (seconds)"
+   },
+   "lcl_comments_interval_time": {
+      "message": "Time interval for Comments (seconds)"
+   },
+   "lcl_comments_status": {
+      "message": "Comment Status"
+   },
+   "lcl_comments": {
+      "message": "Comments"
+   },
+   "lcl_auto_comments": {
+      "message": "Auto Comments"
+   },
+   "lcl_lates_comments": {
+      "message": "Latest Comments"
+   },
+   "lcl_delete_white_list_likes_comments": {
+      "message": "Remove likes and commenters from white lists"
+   },
+   "lcl_clear_white_list": {
+      "message": "Clear white list"
+   },
+   "lcl_collect_comments": {
+      "message": "Collect Comments"
+   },
+   "lcl_collect_likes": {
+      "message": "Collect Likes"
+   },
+   "lcl_collect_title": {
+      "message": "Collect who likes and commets to your images"
+   },
+   "lcl_auto_unfollow": {
+      "message": "Auto Unfollows"
+   },
+   "lcl_auto_unfollow_enable": {
+      "message": "Enable auto unfollows"
+   },
+   "lcl_auto_unfollow_day": {
+      "message": "Auto unfollow interval"
+   },
+   "lcl_day_1": {
+      "message": "1 day"
+   },
+   "lcl_day_2": {
+      "message": "2 days"
+   },
+   "lcl_day_3": {
+      "message": "3 days"
+   },
+   "lcl_stop_collect_current_follows": {
+      "message": "Stop Collecting"
+   },
+   "lcl_collect_current_follows": {
+      "message": "Collect Current Follows"
+   },
+   "lcl_action": {
+      "message": "إجراء"
+   },
+   "lcl_add": {
+      "message": "إضافة"
+   },
+   "lcl_affilate": {
+      "message": "التسويق بالعمولة (إربح المال)"
+   },
+   "lcl_after_rate_limit_error": {
+      "message": "وقت الانتظار بعد خطأ تجاوز الحد (بالثانية)"
+   },
+   "lcl_auto_likes": {
+      "message": "إعجابات تلقائية"
+   },
+   "lcl_buy_for_only": {
+      "message": "فقط ب <span id='licence_price'></span> لشهر لكل حساب"
+   },
+   "lcl_buy_licence": {
+      "message": "شراء الترخيص"
+   },
+   "lcl_buy_now": {
+      "message": "اشتري الآن"
+   },
+   "lcl_cancel": {
+      "message": "إلغاء"
+   },
+   "lcl_check_licence": {
+      "message": "تحقق من الترخيص"
+   },
+   "lcl_close": {
+      "message": "إغلاق"
+   },
+   "lcl_collect_comments_on_media": {
+      "message": "تجميع الميديا من التعليقات"
+   },
+   "lcl_collect_from_comments_likes": {
+      "message": "تجميع من التعليقات والاعجابات"
+   },
+   "lcl_collect_from_followers": {
+      "message": "تجميع من المتابعين"
+   },
+   "lcl_collect_from_location": {
+      "message": "تجميع من الموقع"
+   },
+   "lcl_collect_from_tag": {
+      "message": "تجميع من العلامات"
+   },
+   "lcl_collect_media_owners": {
+      "message": "تجميع أصحاب الميديا"
+   },
+   "lcl_collect_medias_from_home_timeline_to_like": {
+      "message": "تجميع الميديا من الصفحة الرئيسية لوضع اعجاب"
+   },
+   "lcl_collect_medias_from_tags_to_like": {
+      "message": "تجميع الميديا من العلامات لوضع اعجاب"
+   },
+   "lcl_collect_who_likes_media": {
+      "message": "تجميع الذين ابدوا اعجابهم بالميديا"
+   },
+   "lcl_comments_likes": {
+      "message": "التعليقات والإعجابات"
+   },
+   "lcl_contact": {
+      "message": "للاتصال"
+   },
+   "lcl_create_unfollow_job": {
+      "message": "عمل إلغاء المتابعة"
+   },
+   "lcl_declare_sleep_times_follow": {
+      "message": "إبلاغ بأوقات النوم للمتابعة"
+   },
+   "lcl_declare_sleep_times_like": {
+      "message": "إبلاغ بأوقات النوم  للاعجابات"
+   },
+   "lcl_declare_sleep_times_unfollow": {
+      "message": "إبلاغ بأوقات النوم لإلغاء المتابعة"
+   },
+   "lcl_delete": {
+      "message": "حذف"
+   },
+   "lcl_delete_pool": {
+      "message": "حذف الصندوق"
+   },
+   "lcl_delete_pool_history": {
+      "message": "حذف سجل الصندوق"
+   },
+   "lcl_dont_unfollow_followers": {
+      "message": "عدم الغاء متابعة المتابعين"
+   },
+   "lcl_dont_unfollow_that_you_follow": {
+      "message": "عدم الغاء المتابعة لمن يتابعك :"
+   },
+   "lcl_end_time": {
+      "message": "وقت الانتهاء"
+   },
+   "lcl_error_like_interval_time": {
+      "message": "وقت فترة الخطأ عن الاعجاب (بالثانية)"
+   },
+   "lcl_error_log": {
+      "message": "اخطاء السجل"
+   },
+   "lcl_error_type": {
+      "message": "نوع الخطأ"
+   },
+   "lcl_ext_desc": {
+      "message": "انستغرام المتابعة التلقائية, الغاء المتابعة, الاعجاب"
+   },
+   "lcl_ext_name": {
+      "message": "FollowerMonkey.com انستغرام المتابعة , الغاء المتابعة "
+   },
+   "lcl_follow": {
+      "message": "متابعة"
+   },
+   "lcl_follow_limit": {
+      "message": "حدود المتابعة في 24 ساعة"
+   },
+   "lcl_follow_sleep_times": {
+      "message": "متابعة لاوقات النوم"
+   },
+   "lcl_follow_status": {
+      "message": "احصائيات المتابعين"
+   },
+   "lcl_follow_time": {
+      "message": "اوقات المتابعة"
+   },
+   "lcl_followers": {
+      "message": "المتابعون"
+   },
+   "lcl_follows": {
+      "message": "المتابعين"
+   },
+   "lcl_from_comments_likes": {
+      "message": "من التعليقات والإعجابات"
+   },
+   "lcl_from_followers": {
+      "message": "من المتابعون"
+   },
+   "lcl_from_locations": {
+      "message": "من المواقع"
+   },
+   "lcl_from_searches": {
+      "message": "من عمليات البحث"
+   },
+   "lcl_how_to_use": {
+      "message": "كيفية استخدام ؟"
+   },
+   "lcl_interval_time": {
+      "message": "الفاصل الزمني (بثانية)"
+   },
+   "lcl_item": {
+      "message": "العنصر"
+   },
+   "lcl_job_interval_times": {
+      "message": "الفترة الزمنية عن عمل"
+   },
+   "lcl_jobs": {
+      "message": "الوظائف"
+   },
+   "lcl_latest_follows": {
+      "message": "اخر المتابعين"
+   },
+   "lcl_latest_likes": {
+      "message": "اخر الاعجابات"
+   },
+   "lcl_latest_unfollows": {
+      "message": "اخر الغاء المتابعة"
+   },
+   "lcl_licence": {
+      "message": "الترخيص"
+   },
+   "lcl_like_interval_time": {
+      "message": "الفترة الزمنية للاعجاب (بثانية)"
+   },
+   "lcl_like_medias_job": {
+      "message": "اعجابات الميديا"
+   },
+   "lcl_like_sleep_times": {
+      "message": "الاعجاب لوقت النوم"
+   },
+   "lcl_like_status": {
+      "message": "احصائيات الاعجابات"
+   },
+   "lcl_likes": {
+      "message": "الإعجابات"
+   },
+   "lcl_limits": {
+      "message": "الحدود"
+   },
+   "lcl_locations": {
+      "message": "مواقع"
+   },
+   "lcl_max_like_limit": {
+      "message": "الحد الاقصى من الاعجابات في 24 ساعة"
+   },
+   "lcl_media": {
+      "message": "Media"
+   },
+   "lcl_next_action_time": {
+      "message": "وقت الاجراء القادم"
+   },
+   "lcl_options": {
+      "message": "خيارات"
+   },
+   "lcl_others": {
+      "message": "أخرى"
+   },
+   "lcl_pool": {
+      "message": "الصندوق"
+   },
+   "lcl_pool_collect_commenters": {
+      "message": "(صندوق تجميع (التعاليق"
+   },
+   "lcl_pool_collect_followers": {
+      "message": "(صندوق تجميع (المتابعين"
+   },
+   "lcl_pool_collect_locations": {
+      "message": "(صندوق تجميع (المواقع"
+   },
+   "lcl_pool_collect_searches": {
+      "message": "(صندوق تجميع (عمليات البحث"
+   },
+   "lcl_pool_jobs": {
+      "message": "صندوق الوظائف"
+   },
+   "lcl_pool_limit": {
+      "message": "حدود الصندوق"
+   },
+   "lcl_pool_settings": {
+      "message": "اعدادات الصندوق"
+   },
+   "lcl_prices": {
+      "message": "أسعار"
+   },
+   "lcl_privacy_policy": {
+      "message": "سياسة الخصوصية"
+   },
+   "lcl_rate": {
+      "message": "الرجاء وضع تقييمك"
+   },
+   "lcl_remove_comments_likes_collect_job": {
+      "message": "إزالة التعليقات والإعجابات"
+   },
+   "lcl_remove_followers_collect_job": {
+      "message": "إزالة المتابعين"
+   },
+   "lcl_remove_like_media_job": {
+      "message": "إزالة الاعجابات"
+   },
+   "lcl_remove_location_job": {
+      "message": "إزالة الموقع"
+   },
+   "lcl_remove_tag_job": {
+      "message": "إزالة العلامات"
+   },
+   "lcl_remove_unfollow_job": {
+      "message": "إزالة الوظيفة"
+   },
+   "lcl_save": {
+      "message": "حفظ"
+   },
+   "lcl_scanned_users": {
+      "message": "الأعضاء الممسوحة:"
+   },
+   "lcl_searches": {
+      "message": "بحث"
+   },
+   "lcl_secure_settings": {
+      "message": "ما هي الإعدادات الآمنة؟"
+   },
+   "lcl_settings": {
+      "message": "إعدادات"
+   },
+   "lcl_sleep_times": {
+      "message": "اوقات النوم"
+   },
+   "lcl_start": {
+      "message": "البدء"
+   },
+   "lcl_start_time": {
+      "message": "وقت البدء"
+   },
+   "lcl_statistics": {
+      "message": "إحصائيات"
+   },
+   "lcl_stop_scan": {
+      "message": "إيقاف الفحص"
+   },
+   "lcl_tags_to_collect_media": {
+      "message": "الكلمات الدلالية لتجميع الميديا"
+   },
+   "lcl_time": {
+      "message": "الوقت"
+   },
+   "lcl_tos": {
+      "message": "TOS"
+   },
+   "lcl_unfollow": {
+      "message": "الغاء المتابعة"
+   },
+   "lcl_unfollow_limit": {
+      "message": "الحد الأقصى الغاء المتابعة في 24 ساعة"
+   },
+   "lcl_unfollow_sleep_times": {
+      "message": " الغاء المتابعة لاوقات النوم"
+   },
+   "lcl_unfollow_status": {
+      "message": "احصائيات الغاء المتابعة"
+   },
+   "lcl_unfollow_time": {
+      "message": "وقت الغاء المتابعة"
+   },
+   "lcl_unfollows": {
+      "message": "إلغاء متابعة"
+   },
+   "lcl_until_1": {
+      "message": "حتى يمر يوم"
+   },
+   "lcl_until_2": {
+      "message": "حتى يمر يومان"
+   },
+   "lcl_until_3": {
+      "message": "حتى يمر تلات ايام"
+   },
+   "lcl_user_name": {
+      "message": "اسم المستخدم"
+   },
+   "lcl_user_names_desc": {
+      "message": "أسماء (كتابة أسماء متعددة مفصولة بفواصل)"
+   },
+   "lcl_white_list": {
+      "message": "القائمة البيضاء"
+   },
+   "lcl_white_list_for": {
+      "message": "القائمة البيضاء لالغاء المتابعين"
+   }
+}

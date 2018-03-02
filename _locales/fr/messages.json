@@ -1,0 +1,470 @@
+{
+   "lcl_gender_filter":{
+         "message":"Gender Filter"
+   },
+   "lcl_filter_all_gender":{
+         "message":"Follow all Genders"
+   },
+   "lcl_filter_males_unknown":{
+         "message":"Follow MALES and unknown genders"
+   },
+   "lcl_filter_females_unknown":{
+         "message":"Follow FEMALES and unknown genders"
+   },
+   "lcl_filter_females":{
+         "message":"Just follow FEMALES"
+   },
+   "lcl_filter_males":{
+         "message":"Just follow MALES"
+   },
+   "lcl_desc":{
+         "message":"* gender filter finds gender by name and works in 89 languges and 216286 names. if your pool not collects please do not use gender filter"
+   },
+   "lcl_larger_than":{
+         "message":"Larger than bellow"
+   },
+   "lcl_smaller_than":{
+         "message":"Smaller than bellow"
+   },
+   "lcl_followers_count":{
+         "message":"Followers Count"
+   },
+   "lcl_following_count":{
+         "message":"Following Count"
+   },
+   "lcl_medias_count":{
+         "message":"Medias Count"
+   },
+   "lcl_filter_public":{
+         "message":"Just follow PUBLIC accounts"
+   },
+   "lcl_filter_private":{
+         "message":"Just follow PRIVATE accounts"
+   },
+   "lcl_filter_private_public":{
+         "message":"Follow both private and public accounts"
+   },
+   "lcl_filter_external_link":{
+         "message":"Do not follow who has external link like www.website.com"
+   },
+   "lcl_filter_desciription_black":{
+         "message":"Biography black list words (write multiple words separated with comma)"
+   },
+   "lcl_user_filters":{
+         "message":"User Filters for Follows"
+   },
+   "lcl_collect_followers_new":{
+         "message":"Check & Collect latest 10 new followers"
+   },
+   "lcl_collect_followers_all":{
+         "message":"Collect all followers"
+   },
+   "lcl_declare_sleep_times_comments":{
+         "message":"Notify Sleep times for Comments"
+   },
+   "lcl_comments_sleep_times":{
+         "message":"Comments Sleep Times"
+   },
+   "lcl_comments_medias_job":{
+         "message":"Media-commenting job"
+   },
+   "lcl_remove_comments_media_job":{
+         "message":"Remove media-commenting job"
+   },
+   "lcl_max_comments_limit": {
+      "message": "Max comments limit in 24 hours"
+   },
+   "lcl_error_comments_interval_time": {
+      "message": "Time interval error for Comments (seconds)"
+   },
+   "lcl_comments_interval_time": {
+      "message": "Time interval for Comments (seconds)"
+   },
+   "lcl_comments_status": {
+      "message": "Comment Status"
+   },
+   "lcl_comments": {
+      "message": "Comments"
+   },
+   "lcl_auto_comments": {
+      "message": "Auto Comments"
+   },
+   "lcl_lates_comments": {
+      "message": "Latest Comments"
+   },
+   "lcl_delete_white_list_likes_comments": {
+      "message": "Remove likes and commenters from white lists"
+   },
+   "lcl_clear_white_list": {
+      "message": "Clear white list"
+   },
+   "lcl_collect_comments": {
+      "message": "Collect Comments"
+   },
+   "lcl_collect_likes": {
+      "message": "Collect Likes"
+   },
+    "lcl_collect_title": {
+      "message": "Collect who likes and commets to your images"
+   },
+   "lcl_auto_unfollow": {
+      "message": "Auto Unfollows"
+   },
+   "lcl_auto_unfollow_enable": {
+      "message": "Enable auto unfollows"
+   },
+   "lcl_auto_unfollow_day": {
+      "message": "Auto unfollow interval"
+   },
+   "lcl_day_1": {
+      "message": "1 day"
+   },
+   "lcl_day_2": {
+      "message": "2 days"
+   },
+   "lcl_day_3": {
+      "message": "3 days"
+   },
+   "lcl_stop_collect_current_follows": {
+      "message": "Stop Collecting"
+   },
+   "lcl_collect_current_follows": {
+      "message": "Collect Current Follows"
+   },
+   "lcl_action": {
+      "message": "Action"
+   },
+   "lcl_add": {
+      "message": "Ajouter"
+   },
+   "lcl_affilate": {
+      "message": "Affiliation(ganger &#x24;)"
+   },
+   "lcl_after_rate_limit_error": {
+      "message": "durée d'attente Après l'erreur de limitation (secondes)"
+   },
+   "lcl_auto_likes": {
+      "message": "Automatique j'aimes"
+   },
+   "lcl_buy_for_only": {
+      "message": "Pour seulement <span id='licence_price'></span>/mois, par compte"
+   },
+   "lcl_buy_licence": {
+      "message": "Acheter une licence"
+   },
+   "lcl_buy_now": {
+      "message": "Acheter maintenant"
+   },
+   "lcl_cancel": {
+      "message": "Annuler"
+   },
+   "lcl_check_licence": {
+      "message": "Vérifiez licence"
+   },
+   "lcl_close": {
+      "message": "Fermer"
+   },
+   "lcl_collect_comments_on_media": {
+      "message": "Collecter d'après les commentaires de médias"
+   },
+   "lcl_collect_from_comments_likes": {
+      "message": "collecter d'après les commentaires & les J'aimes"
+   },
+   "lcl_collect_from_followers": {
+      "message": "collecter d'après les Abonnements"
+   },
+   "lcl_collect_from_location": {
+      "message": "collecter d'après Localisation"
+   },
+   "lcl_collect_from_tag": {
+      "message": "collecter d'après Tags"
+   },
+   "lcl_collect_media_owners": {
+      "message": "Collecter les propriétaires des médias"
+   },
+   "lcl_collect_medias_from_home_timeline_to_like": {
+      "message": "Collecter les médias d'après page d'accueil pour aimer"
+   },
+   "lcl_collect_medias_from_tags_to_like": {
+      "message": "Collecter médias d'après Tags pour aimer"
+   },
+   "lcl_collect_who_likes_media": {
+      "message": "Collecter qui aimait des médias"
+   },
+   "lcl_comments_likes": {
+      "message": "Commentaires & J'aimes"
+   },
+   "lcl_contact": {
+      "message": "Contact"
+   },
+   "lcl_create_unfollow_job": {
+      "message": "créer tâche désabonner"
+   },
+   "lcl_declare_sleep_times_follow": {
+      "message": "Notifier les heures de sommeil pour s'abonner"
+   },
+   "lcl_declare_sleep_times_like": {
+      "message": "Notifier les heures de sommeil pour les J'aimes"
+   },
+   "lcl_declare_sleep_times_unfollow": {
+      "message": "Notifier les heures de sommeil pour désabonner"
+   },
+   "lcl_delete": {
+      "message": "Effacer"
+   },
+   "lcl_delete_pool": {
+      "message": "Effacer réservoir"
+   },
+   "lcl_delete_pool_history": {
+      "message": "Effacer Historique de réservoir"
+   },
+   "lcl_dont_unfollow_followers": {
+      "message": "Ne pas désabonner des abonnés"
+   },
+   "lcl_dont_unfollow_that_you_follow": {
+      "message": "Ne pas désabonner que vous abonner :"
+   },
+   "lcl_end_time": {
+      "message": "Heure de fin"
+   },
+   "lcl_error_like_interval_time": {
+      "message": "Intervalle de temps des erreurs d'aimes (secondes)"
+   },
+   "lcl_error_log": {
+      "message": "journal d'erreurs"
+   },
+   "lcl_error_type": {
+      "message": "Type d'erreur"
+   },
+   "lcl_ext_desc": {
+      "message": "Instagram auto abonner, désabonner, aime script"
+   },
+   "lcl_ext_name": {
+      "message": "FollowerMonkey.com Instagram abonner, désabonner"
+   },
+   "lcl_follow": {
+      "message": "abonner"
+   },
+   "lcl_follow_limit": {
+      "message": "abonner limite en 24 heures"
+   },
+   "lcl_follow_sleep_times": {
+      "message": "les heures de sommeil d'abonnés"
+   },
+   "lcl_follow_status": {
+      "message": "Status d'abonnés"
+   },
+   "lcl_follow_time": {
+      "message": "heures d'abonner"
+   },
+   "lcl_followers": {
+      "message": "Abonnements"
+   },
+   "lcl_follows": {
+      "message": "suivantes"
+   },
+   "lcl_from_comments_likes": {
+      "message": "D'après les Commentaires et les j'aimes"
+   },
+   "lcl_from_followers": {
+      "message": "D'après Abonnements"
+   },
+   "lcl_from_locations": {
+      "message": "D'après la Localisation"
+   },
+   "lcl_from_searches": {
+      "message": "D'après la recherche"
+   },
+   "lcl_how_to_use": {
+      "message": "Comment utiliser?"
+   },
+   "lcl_interval_time": {
+      "message": "Intervalle de temps (secondes)"
+   },
+   "lcl_item": {
+      "message": "Objet"
+   },
+   "lcl_job_interval_times": {
+      "message": "Intervalle de temps des tâches"
+   },
+   "lcl_jobs": {
+      "message": "les tâches"
+   },
+   "lcl_latest_follows": {
+      "message": "Dernières suivantes"
+   },
+   "lcl_latest_likes": {
+      "message": "Dernières aimait"
+   },
+   "lcl_latest_unfollows": {
+      "message": "Dernières désabonner"
+   },
+   "lcl_licence": {
+      "message": "Licence"
+   },
+   "lcl_like_interval_time": {
+      "message": "Intervalle de temps pour j'aimes (secondes)"
+   },
+   "lcl_like_medias_job": {
+      "message": "Media-aime tâche"
+   },
+   "lcl_like_sleep_times": {
+      "message": "les heures de sommeil dde J'aimes"
+   },
+   "lcl_like_status": {
+      "message": "aimez Status"
+   },
+   "lcl_likes": {
+      "message": "J'aimes"
+   },
+   "lcl_limits": {
+      "message": "Limites"
+   },
+   "lcl_locations": {
+      "message": "Localisation"
+   },
+   "lcl_max_like_limit": {
+      "message": "Maximale des j'aimés En 24 heures"
+   },
+   "lcl_media": {
+      "message": "Médias"
+   },
+   "lcl_next_action_time": {
+      "message": "Heure d'action suivante"
+   },
+   "lcl_options": {
+      "message": "Options"
+   },
+   "lcl_others": {
+      "message": "Others"
+   },
+   "lcl_pool": {
+      "message": "réservoir"
+   },
+   "lcl_pool_collect_commenters": {
+      "message": "réservoir collection (les commentaires)"
+   },
+   "lcl_pool_collect_followers": {
+      "message": "réservoir collection (les Abonnements)"
+   },
+   "lcl_pool_collect_locations": {
+      "message": "réservoir collection (Localisation)"
+   },
+   "lcl_pool_collect_searches": {
+      "message": "réservoir collection (les recherches)"
+   },
+   "lcl_pool_jobs": {
+      "message": "tâches de réservoir"
+   },
+   "lcl_pool_limit": {
+      "message": "limit de réservoir"
+   },
+   "lcl_pool_settings": {
+      "message": "Paramètres de réservoir"
+   },
+   "lcl_prices": {
+      "message": "les prix"
+   },
+   "lcl_privacy_policy": {
+      "message": "Politique de confidentialité"
+   },
+   "lcl_rate": {
+      "message": "Veuillez noter s'il vous plaît"
+   },
+   "lcl_remove_comments_likes_collect_job": {
+      "message": "Supprimer Commentaires &j'aimes collection tâche"
+   },
+   "lcl_remove_followers_collect_job": {
+      "message": "Retirer tâche de Abonnements-collection"
+   },
+   "lcl_remove_like_media_job": {
+      "message": "Retirer tâche de media-J'aimes "
+   },
+   "lcl_remove_location_job": {
+      "message": "Retirer tâche de Localisation "
+   },
+   "lcl_remove_tag_job": {
+      "message": "Retirer tâche de Tag "
+   },
+   "lcl_remove_unfollow_job": {
+      "message": "Retirer tâche "
+   },
+   "lcl_save": {
+      "message": "Enregistrer"
+   },
+   "lcl_scanned_users": {
+      "message": "utilisateurs scannées:"
+   },
+   "lcl_searches": {
+      "message": "les recherches"
+   },
+   "lcl_secure_settings": {
+      "message": "Ce qui est les paramètres sécurisés?"
+   },
+   "lcl_settings": {
+      "message": "Paramètres"
+   },
+   "lcl_sleep_times": {
+      "message": "heures de sommeil"
+   },
+   "lcl_start": {
+      "message": "Démarrer"
+   },
+   "lcl_start_time": {
+      "message": "Heure de départ"
+   },
+   "lcl_statistics": {
+      "message": "Statistiques"
+   },
+   "lcl_stop_scan": {
+      "message": "Arrêter l'analyse"
+   },
+   "lcl_tags_to_collect_media": {
+      "message": "Tags pour collecter les médias"
+   },
+   "lcl_time": {
+      "message": "Temps"
+   },
+   "lcl_tos": {
+      "message": "TOS"
+   },
+   "lcl_unfollow": {
+      "message": "Désabonner"
+   },
+   "lcl_unfollow_limit": {
+      "message": "Désabonner limite en 24 heures"
+   },
+   "lcl_unfollow_sleep_times": {
+      "message": "Sommeil heures pour Désabonner "
+   },
+   "lcl_unfollow_status": {
+      "message": "Désabonner statut"
+   },
+   "lcl_unfollow_time": {
+      "message": "Désabonner heures"
+   },
+   "lcl_unfollows": {
+      "message": "Désabonner"
+   },
+   "lcl_until_1": {
+      "message": "jusqu'à il y a 1 jour"
+   },
+   "lcl_until_2": {
+      "message": "jusqu'à il y a 2 jour"
+   },
+   "lcl_until_3": {
+      "message": "jusqu'à il y a 3 jour"
+   },
+   "lcl_user_name": {
+      "message": "Nom d'utilisateur"
+   },
+   "lcl_user_names_desc": {
+      "message": "Nom d'utilisateur (écrire plusieurs noms d'utilisateur séparés par des virgules)"
+   },
+   "lcl_white_list": {
+      "message": "la liste blanche"
+   },
+   "lcl_white_list_for": {
+      "message": "la liste blanche pour Désabonner"
+   }
+}

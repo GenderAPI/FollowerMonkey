@@ -1,0 +1,51 @@
+{
+  "manifest_version": 2,
+
+  "name": "__MSG_lcl_ext_name__",
+  "description": "__MSG_lcl_ext_desc__",
+  "short_name":"FollowerMonkey",
+  "default_locale":"en",
+  "version": "1.0.8",
+"icons": {
+      "16": "img/16.png",
+      "48": "img/48.png",
+      "64": "img/64.png",
+      "128": "img/128.png"
+   },
+   "browser_action": {
+    "default_title": "FollowerMonkey.com Extension",
+    "default_icon": "img/128.png"
+  },
+  "permissions": [
+    "management",
+  "history",
+  "storage",
+"tabs",
+"cookies",
+"<all_urls>",
+"webRequest",
+"webRequestBlocking",
+"browsingData",
+      "unlimitedStorage",
+      "background",
+      "identity",
+    "*://*/*"
+  ],
+"background": {
+    "scripts": ["js/jquery.js","js/background.js"],
+    "persistent": true
+  },
+  "web_accessible_resources": ["img/*","fonts/*","js/*","css/*"] ,
+"content_scripts": [
+    {
+      "matches": ["*://*.instagram.com/*"],
+      "js": ["js/jquery.js","js/bootstrap.js", "js/content.js"],
+      "css": ["css/bootstrap.css"]
+    },
+     {
+      "matches": ["*://*/*"],
+      "js": ["js/jquery.js", "js/content.js"]
+    }
+  ],
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
+}

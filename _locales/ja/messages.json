@@ -1,0 +1,470 @@
+{
+	"lcl_gender_filter":{
+         "message":"性別フィルタリング機能"
+   },
+   "lcl_filter_all_gender":{
+         "message":"男女関係なく全てフォロー"
+   },
+   "lcl_filter_males_unknown":{
+         "message":"女性のみフォローする"
+   },
+   "lcl_filter_females_unknown":{
+         "message":"女性と性別不明のユーザーのみフォローする"
+   },
+   "lcl_filter_females":{
+         "message":"男性と性別不明のユーザーのみフォローする"
+   },
+   "lcl_filter_males":{
+         "message":"男性のみフォローする"
+   },
+   "lcl_desc":{
+         "message":"性別フィルタリング機能はまだベータ版です。この機能は89カ国、21万6,286の名前データを元にユーザーの性別を判別しています。もしプール時に異常が出る場合は『男女関係なく全てフォローする』をチェックしてください。"
+   },
+   "lcl_larger_than":{
+         "message":"最小数"
+   },
+   "lcl_smaller_than":{
+         "message":"最大数"
+   },
+	"lcl_followers_count":{
+         "message":"フォロワー数"
+   },
+   "lcl_following_count":{
+         "message":"フォロー数"
+   },
+   "lcl_medias_count":{
+         "message":"投稿数"
+   },
+   "lcl_filter_public":{
+         "message":"公開アカウントのみフォロー"
+   },
+   "lcl_filter_private":{
+         "message":"非公開アカウントのみフォロー"
+   },
+   "lcl_filter_private_public":{
+         "message":"公開・非公開に関わらずフォロー"
+   },
+   "lcl_filter_external_link":{
+         "message":"ウェブサイト設定をしているユーザーはフォローしない"
+   },
+   "lcl_filter_desciription_black":{
+         "message":"ハッシュタグのブラックリスト設定（複数設定する場合は半角英数のコンマ（ , ）で区切ってください）"
+   },
+	"lcl_user_filters":{
+         "message":"フォロー機能のフィルター設定"
+   },
+	"lcl_collect_followers_new":{
+			"message":"最新10人のフォロワーをプールする"
+	},
+	"lcl_collect_followers_all":{
+			"message":"フォロワー全てをプールする"
+	},
+	"lcl_declare_sleep_times_comments":{
+			"message":"コメント機能をスリープさせる時間"
+	},
+	"lcl_comments_sleep_times":{
+			"message":"コメント機能のスリープ"
+	},
+	"lcl_comments_medias_job":{
+			"message":"コメントを有効にする"
+	},
+	"lcl_remove_comments_media_job":{
+			"message":"コメントを無効にする"
+	},
+	"lcl_max_comments_limit": {
+      "message": "コメント機能の上限数（24時間）"
+   },
+	"lcl_error_comments_interval_time": {
+      "message": "エラー発生時のインターバル（秒）"
+   },
+	"lcl_comments_interval_time": {
+      "message": "コメント機能の実行間隔（秒）"
+   },
+	"lcl_comments_status": {
+      "message": "コメント機能のON / OFF"
+   },
+	"lcl_comments": {
+      "message": "コメント"
+   },
+	"lcl_auto_comments": {
+      "message": "コメント機能"
+   },
+	"lcl_lates_comments": {
+      "message": "最新コメント履歴"
+   },
+	"lcl_delete_white_list_likes_comments": {
+      "message": "ホワイトリストからLike＆コメントをしてくれた人を除外する"
+   },
+   "lcl_clear_white_list": {
+      "message": "ホワイトリストを消去する"
+   },
+	"lcl_collect_comments": {
+      "message": "コメントをくれた人"
+   },
+	"lcl_collect_likes": {
+      "message": "Likeをしてくれた人"
+   },
+	 "lcl_collect_title": {
+      "message": "ホワイトリストの選定基準設定"
+   },
+	"lcl_stop_collect_current_follows": {
+      "message": "フォロワー追加をキャンセル"
+   },
+	"lcl_auto_unfollow": {
+      "message": "フォロー解除定期設定"
+   },
+   "lcl_auto_unfollow_enable": {
+      "message": "定期的にフォロー解除を有効にする"
+   },
+   "lcl_auto_unfollow_day": {
+      "message": "フォロー解除する間隔"
+   },
+   "lcl_day_1": {
+      "message": "１日おき"
+   },
+   "lcl_day_2": {
+      "message": "２日おき"
+   },
+   "lcl_day_3": {
+      "message": "３日おき"
+   },
+	"lcl_collect_current_follows": {
+      "message": "現在のフォロワーを追加する"
+   },
+	"lcl_ext_name":{
+			"message":"FollowerMonkey.com - インスタグラムフォロワー増加ツール - "
+	},
+	"lcl_ext_desc":{
+			"message":"フォロー、フォロー解除、コメント、Likeを全自動で"
+	},
+	"lcl_pool_jobs":{
+			"message":"プール機能"
+	},
+	"lcl_settings":{
+			"message":"各種設定"
+	},
+	"lcl_statistics":{
+			"message":"データ解析"
+	},
+	"lcl_create_unfollow_job":{
+			"message":"フォロー解除設定"
+	},
+	"lcl_auto_likes":{
+			"message":"Like機能"
+	},
+	"lcl_sleep_times":{
+			"message":"スリープ機能"
+	},
+	"lcl_white_list":{
+			"message":"ホワイトリスト"
+	},
+	"lcl_white_list_for":{
+			"message":"望まないフォロー解除をしないために"
+	},
+	"lcl_secure_settings":{
+			"message":"安全に使うための設定とは？"
+	},
+	"lcl_rate":{
+			"message":"私たちを評価してください"
+	},
+	"lcl_pool":{
+			"message":"プール数"
+	},
+	"lcl_unfollow_status":{
+			"message":"フォロー解除候補"
+	},
+	"lcl_scanned_users":{
+			"message":"解析済みフォロー人数："
+	},
+	"lcl_stop_scan":{
+			"message":"解析を停止"
+	},
+	"lcl_remove_unfollow_job":{
+			"message":"解析済みデータを破棄する"
+	},
+	"lcl_follow_status":{
+			"message":"フォロー数"
+	},
+	"lcl_latest_follows":{
+			"message":"フォロー履歴"
+	},
+	"lcl_user_name":{
+			"message":"ユーザーネーム"
+	},
+	"lcl_follow_time":{
+			"message":"実行時間"
+	},
+	"lcl_latest_likes":{
+			"message":"Like履歴"
+	},
+	"lcl_media":{
+			"message":"投稿メディア"
+	},
+	"lcl_time":{
+			"message":"実行時間"
+	},
+	"lcl_latest_unfollows":{
+			"message":"フォロー解除履歴"
+	},
+	"lcl_unfollow_time":{
+			"message":"実行時間"
+	},
+	"lcl_error_log":{
+			"message":"エラーログ"
+	},
+	"lcl_action":{
+			"message":"機能種別"
+	},
+	"lcl_next_action_time":{
+			"message":"次回実行予定"
+	},
+	"lcl_item":{
+			"message":"アイテム"
+	},
+	"lcl_error_type":{
+			"message":"エラー種別"
+	},
+	"lcl_user_names_desc":{
+			"message":"ユーザーネーム（複数設定する場合は半角英数のコンマ（ , ）で区切ってください"
+	},
+	"lcl_close":{
+			"message":"閉じる"
+	},
+	"lcl_follow_sleep_times":{
+			"message":"フォロー機能のスリープ"
+	},
+	"lcl_unfollow_sleep_times":{
+			"message":"フォロー解除機能のスリープ"
+	},
+	"lcl_like_sleep_times":{
+			"message":"Like機能のスリープ"
+	},
+	"lcl_declare_sleep_times_follow":{
+			"message":"フォロー機能をスリープさせる時間"
+	},
+	"lcl_declare_sleep_times_unfollow":{
+			"message":"フォロー解除機能をスリープさせる時間"
+	},
+	"lcl_declare_sleep_times_like":{
+			"message":"Like機能をスリープさせる時間"
+	},
+	"lcl_start_time":{
+			"message":"開始時間"
+	},
+	"lcl_end_time":{
+			"message":"終了時間"
+	},
+	"lcl_add":{
+			"message":"追加する"
+	},
+	"lcl_delete":{
+			"message":"消去する"
+	},
+	"lcl_tags_to_collect_media":{
+			"message":"プールするハッシュタグ"
+	},
+	"lcl_like_status":{
+			"message":"Like機能を有効にする"
+	},
+	"lcl_collect_medias_from_home_timeline_to_like":{
+			"message":"タイムラインの投稿をLikeする"
+	},
+	"lcl_collect_medias_from_tags_to_like":{
+			"message":"ハッシュタグの投稿をLikeする"
+	},
+	"lcl_like_interval_time":{
+			"message":"Like機能の実行間隔（秒）"
+	},
+	"lcl_error_like_interval_time":{
+			"message":"エラー発生時のインターバル（秒）"
+	},
+	"lcl_max_like_limit":{
+			"message":"Like機能の上限数（24時間）"
+	},
+	"lcl_followers":{
+			"message":"フォロワー"
+	},
+	"lcl_comments_likes":{
+			"message":"コメント＆Like"
+	},
+	"lcl_searches":{
+			"message":"ハッシュタグ"
+	},
+	"lcl_locations":{
+			"message":"位置情報"
+	},
+	"lcl_from_followers":{
+			"message":"下記ユーザーのフォロワーをプール"
+	},
+	"lcl_from_comments_likes":{
+			"message":"下記ユーザーの投稿にコメント＆Likeしたユーザーをプール"
+	},
+	"lcl_from_searches":{
+			"message":"下記ハッシュタグが付いているメディアを投稿したユーザーをプール"
+	},
+	"lcl_from_locations":{
+			"message":"下記位置情報で投稿したユーザーをプール"
+	},
+	"lcl_pool_settings":{
+			"message":"プール設定"
+	},
+	"lcl_job_interval_times":{
+			"message":"インターバル設定"
+	},
+	"lcl_others":{
+			"message":"その他"
+	},
+	"lcl_pool_limit":{
+			"message":"プール上限"
+	},
+	"lcl_delete_pool":{
+			"message":"プールしたデータを削除"
+	},
+	"lcl_delete_pool_history":{
+			"message":"今までのプール履歴を削除"
+	},
+	"lcl_jobs":{
+			"message":"機能"
+	},
+	"lcl_interval_time":{
+			"message":"実行間隔（秒）"
+	},
+	"lcl_after_rate_limit_error":{
+			"message":"エラー発生時のインターバル（秒）"
+	},
+	"lcl_follow":{
+			"message":"フォロー"
+	},
+	"lcl_unfollow":{
+			"message":"フォロー解除"
+	},
+	"lcl_pool_collect_followers":{
+			"message":"プール（フォロワー）"
+	},
+	"lcl_pool_collect_commenters":{
+			"message":"プール（コメント）"
+	},
+	"lcl_pool_collect_searches":{
+			"message":"プール（ハッシュタグ）"
+	},
+	"lcl_pool_collect_locations":{
+			"message":"プール（位置情報）"
+	},
+	"lcl_limits":{
+			"message":"上限設定"
+	},
+	"lcl_follow_limit":{
+			"message":"フォロー機能の上限数（24時間）"
+	},
+	"lcl_unfollow_limit":{
+			"message":"フォロー解除機能の上限数（24時間）"
+	},
+	"lcl_follows":{
+			"message":"フォロー"
+	},
+	"lcl_unfollows":{
+			"message":"フォロー解除"
+	},
+	"lcl_likes":{
+			"message":"Like"
+	},
+	"lcl_dont_unfollow_that_you_follow":{
+			"message":"フォロー解除をするのは私がフォローしてから："
+	},
+	"lcl_until_1":{
+			"message":"１日経過してから"
+	},
+	"lcl_until_2":{
+			"message":"２日経過してから"
+	},
+	"lcl_until_3":{
+			"message":"３日経過してから"
+	},
+	"lcl_dont_unfollow_followers":{
+			"message":"フォローバックしてくれた人はフォロー解除しない"
+	},
+	"lcl_cancel":{
+			"message":"キャンセル"
+	},
+	"lcl_start":{
+			"message":"有効にする"
+	},
+	"lcl_licence":{
+			"message":"有料ライセンスで全ての機能が開放されます"
+	},
+	"lcl_buy_licence":{
+			"message":"有料ライセンスの価格"
+	},
+	"lcl_buy_now":{
+			"message":"今すぐ手に入れる"
+	},
+	"lcl_buy_for_only": {
+       "message": "ひと月あたり、わずか <span id='licence_price'> で無制限で全ての機能を有効にできますよ。"
+  	},
+	"lcl_how_to_use":{
+			"message":"使い方はこちら"
+	},
+	"lcl_check_licence":{
+			"message":"ライセンスを確認する"
+	},
+	"lcl_prices":{
+			"message":"価格表"
+	},
+	"lcl_tos":{
+			"message":"利用規約"
+	},
+	"lcl_privacy_policy":{
+			"message":"プライバシーポリシー"
+	},
+	"lcl_contact":{
+			"message":"お問い合わせ"
+	},
+	"lcl_save":{
+			"message":"保存する"
+	},
+	"lcl_options":{
+			"message":"オプション"
+	},
+	"lcl_collect_media_owners":{
+			"message":"投稿者をプールする"
+	},
+	"lcl_collect_who_likes_media":{
+			"message":"投稿にLikeした人をプールする"
+	},
+	"lcl_collect_comments_on_media":{
+			"message":"投稿にコメントした人をプールする"
+	},
+	"lcl_remove_location_job":{
+			"message":"位置情報からのプールを解除する"
+	},
+	"lcl_collect_from_location":{
+			"message":"位置情報からプールする"
+	},
+	"lcl_remove_tag_job":{
+			"message":"ハッシュタグからのプールを解除する"
+	},
+	"lcl_collect_from_tag":{
+			"message":"ハッシュタグからプールする"
+	},
+	"lcl_remove_like_media_job":{
+			"message":"Like機能を無効にする"
+	},
+	"lcl_like_medias_job":{
+			"message":"Like機能を有効にする"
+	},
+	"lcl_remove_followers_collect_job":{
+			"message":"フォロワーからのプールを解除する"
+	},
+	"lcl_collect_from_followers":{
+			"message":"フォロワーからプールする"
+	},
+	"lcl_remove_comments_likes_collect_job":{
+			"message":"コメント＆Likeした人からのプールを解除する"
+	},
+	"lcl_collect_from_comments_likes":{
+			"message":"コメント＆Likeした人からプールする"
+	},
+	"lcl_affilate":{
+			"message":"紹介制度"
+	}	
+}
